@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 
 # Ahoj, vitajte na mojom profile 👋
 Som začínajúci **QA tester** so zameraním na manuálne testovanie webových aplikácií, API testovanie a automatizáciu pomocou **Playwrightu v Pythone**.
+
 V oblasti testovania som zatiaľ na začiatku, ale QA vnímam ako smer, na ktorom chcem dlhodobo stavať svoju kariéru. Baví ma hľadať chyby, overovať správanie aplikácií a premýšľať nad tým, či softvér funguje spoľahlivo, zrozumiteľne a podľa očakávaní používateľa.
-Popri testovaní mám približne **5 rokov skúseností s hobby vývojom webových stránok a menších projektov**, ktorým som sa venoval formou samoštúdia a kurzov. Verím, že táto skúsenosť pre mňa vytvára solídne technické zázemie, ktoré dokážem použiť v práci testera.
+
+Popri testovaní mám približne **5 rokov skúseností s hobby vývojom webových stránok a menších projektov**, ktorým som sa venoval formou samoštúdia a kurzov. 
+
+Verím, že táto skúsenosť pre mňa vytvára solídne technické zázemie, ktoré dokážem použiť v práci testera.
 
 
 

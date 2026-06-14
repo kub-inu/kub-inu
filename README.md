@@ -1,26 +1,87 @@
-<!--
-**kub-inu/kub-inu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Vitajte na mojom profile 👋
 
-Here are some ideas to get you started:
+Som začínajúci **QA tester samouk**, ktorý sa zameriava na manuálne testovanie, API testovanie a automatizované testovanie pomocou nástrojov **Playwright**, **Pytest** a **Python**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+V oblasti testovania som zatiaľ na začiatku, ale QA vnímam ako smer, na ktorom by som chcel dlhodobo budovať svoju kariéru. Baví ma hľadať chyby, overovať správanie aplikácií a premýšľať nad tým, ako zlepšiť kvalitu softvéru.
 
-# Ahoj, vitajte na mojom profile 👋
-Som začínajúci **QA tester** so zameraním na manuálne testovanie webových aplikácií, API testovanie a automatizáciu pomocou **Playwrightu v Pythone**.
+Okrem testovania mám približne **5 rokov hobby skúseností s vývojom webových stránok**. Web developmentu som sa venoval hlavne formou samoštúdia, vlastných projektov a kurzov. Verím, že táto skúsenosť mi dáva dobré technické zázemie aj pri testovaní webových aplikácií.
 
-V oblasti testovania som zatiaľ na začiatku, ale QA vnímam ako smer, na ktorom chcem dlhodobo stavať svoju kariéru. Baví ma hľadať chyby, overovať správanie aplikácií a premýšľať nad tým, či softvér funguje spoľahlivo, zrozumiteľne a podľa očakávaní používateľa.
+---
 
-Popri testovaní mám približne **5 rokov skúseností s hobby vývojom webových stránok a menších projektov**, ktorým som sa venoval formou samoštúdia a kurzov. 
+## 🧩 Na čom práve pracujem
 
-Verím, že táto skúsenosť pre mňa vytvára solídne technické zázemie, ktoré dokážem použiť v práci testera.
+* Pracujem na príspevku do herného jamu [30 Days of RPG Adventures](https://itch.io/jam/30-days-of-rpg-adventures-1), kde pripravujem jednoduchú textovú hru v Pythone. Mojím cieľom nie je vyhrať, ale precvičiť si Python hravým spôsobom.
+* Vylepšujem svoje QA portfólio a plánujem nový QA projekt s automatizovanými testami a testovacími artefaktmi.
+* Precvičujem si angličtinu pre profesionálnu komunikáciu v IT.
+* Pripravujem sa na skúšku **ISTQB CTFL**.
 
+---
 
+## 🧪 Zručnosti v QA
 
+<details open>
+  <summary>Rozbaliť QA zručnosti</summary>
+
+* návrh testovacích prípadov a ich exekúcia,
+* exploratory testing,
+* API testovanie pomocou nástroja Postman,
+* základné integračné testovanie s databázou,
+* hľadanie a reportovanie defektov,
+* automatizácia testov pomocou Pytestu,
+* E2E testovanie webových aplikácií pomocou Playwrightu.
+
+</details>
+
+---
+
+## 🛠️ Technické znalosti
+
+<details>
+  <summary>Rozbaliť technické znalosti</summary>
+
+### Web development
+
+**Frontend:**
+HTML5, CSS3, JavaScript
+
+**Backend:**
+PHP
+
+**Nástroje a knižnice:**
+jQuery, Axios, SASS, Laravel
+
+### Game development
+
+Pygame, Godot
+
+### Databázy
+
+SQL, MySQL, PostgreSQL
+
+### Testing
+
+Python, Pytest, Playwright, Postman, DBeaver
+
+</details>
+
+---
+
+## 📌 Milníky
+
+* **08/2026** – získaný certifikát [Junior Tester](./certifikaty/junior-tester-engeto.pdf)po absolvovaní Testerskej akadémie od Engeta
+* **02/2024** – účasť na Game Jamu: [Minigame a month February 2024](https://itch.io/jam/minigame-a-month-february-2024), projekt: [Rocky Harvest (Godot)](https://kayo005.itch.io/rocky-harvest)
+
+---
+
+## 🎯 Aktuálny cieľ
+
+Mojím aktuálnym cieľom je získať prvú pracovnú príležitosť ako **Junior QA Tester** a ďalej rozvíjať svoje schopnosti v oblasti manuálneho testovania, API testovania a automatizácie.
+
+---
+
+## 📫 Kontakt
+
+* GitHub: [@kub-inu](https://github.com/kub-inu)
+* Email: [zalesakjakub0@gmail.com](mailto:zalesakjakub0@gmail.com)
+* LinkedIn: [jakubzalesak](https://www.linkedin.com/in/jakubzalesak/)
+* Discord: kub-inu (ID: 1325158657037434982)

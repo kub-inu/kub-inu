@@ -19,10 +19,11 @@ Okrem testovania mám približne **5 rokov hobby skúseností s vývojom webový
 
 ## 🛠️ Technické zručnosti
 
-```
+
 <details>
   <summary>Rozbaliť QA zručnosti</summary>
-
+  
+```
 * návrh testovacích prípadov a ich exekúcia,
 * exploratory testing,
 * API testovanie pomocou nástroja Postman,
@@ -30,9 +31,10 @@ Okrem testovania mám približne **5 rokov hobby skúseností s vývojom webový
 * hľadanie a reportovanie defektov,
 * automatizácia testov pomocou Pytestu,
 * E2E testovanie webových aplikácií pomocou Playwrightu.
-
-</details>
 ```
+  
+</details>
+
 <details>
   <summary>`Rozbaliť technické znalosti`</summary>
 

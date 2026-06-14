@@ -19,8 +19,9 @@ Okrem testovania mám približne **5 rokov hobby skúseností s vývojom webový
 
 ## 🛠️ Technické zručnosti
 
+```
 <details>
-  <summary>`Rozbaliť QA zručnosti`</summary>
+  <summary>Rozbaliť QA zručnosti</summary>
 
 * návrh testovacích prípadov a ich exekúcia,
 * exploratory testing,
@@ -31,32 +32,24 @@ Okrem testovania mám približne **5 rokov hobby skúseností s vývojom webový
 * E2E testovanie webových aplikácií pomocou Playwrightu.
 
 </details>
-
+```
 <details>
   <summary>`Rozbaliť technické znalosti`</summary>
 
 ### Web development
 
-**Frontend:**
-HTML5, CSS3, JavaScript
-
-**Backend:**
-PHP
-
-**Nástroje a knižnice:**
-jQuery, Axios, SASS, Laravel
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Backend:** PHP
+- **Nástroje a knižnice:** jQuery, Axios, SASS, Laravel
 
 ### Game development
-
-Pygame, Godot
+- Pygame, Godot
 
 ### Databázy
-
-SQL, MySQL, PostgreSQL
+- SQL, MySQL, PostgreSQL
 
 ### Testing
-
-Python, Pytest, Playwright, Postman, DBeaver
+- Python, Pytest, Playwright, Postman, DBeaver
 
 </details>
 
@@ -75,9 +68,5 @@ Mojím aktuálnym cieľom je získať prvú pracovnú príležitosť ako **Junio
 
 ---
 
-## 📫 Kontakt
-
-* GitHub: [@kub-inu](https://github.com/kub-inu)
-* Email: [zalesakjakub0@gmail.com](mailto:zalesakjakub0@gmail.com)
-* LinkedIn: [jakubzalesak](https://www.linkedin.com/in/jakubzalesak/)
+## 📫 Ďalšie kontakty
 * Discord: kub-inu (ID: 1325158657037434982)

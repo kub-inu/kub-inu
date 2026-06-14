@@ -17,10 +17,10 @@ Okrem testovania mám približne **5 rokov hobby skúseností s vývojom webový
 
 ---
 
-## 🧪 Zručnosti v QA
+## 🛠️ Technické zručnosti
 
-<details open>
-  <summary>Rozbaliť QA zručnosti</summary>
+<details>
+  <summary>`Rozbaliť QA zručnosti`</summary>
 
 * návrh testovacích prípadov a ich exekúcia,
 * exploratory testing,
@@ -32,12 +32,8 @@ Okrem testovania mám približne **5 rokov hobby skúseností s vývojom webový
 
 </details>
 
----
-
-## 🛠️ Technické znalosti
-
 <details>
-  <summary>Rozbaliť technické znalosti</summary>
+  <summary>`Rozbaliť technické znalosti`</summary>
 
 ### Web development
 

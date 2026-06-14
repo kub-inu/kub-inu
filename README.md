@@ -37,21 +37,22 @@ Okrem testovania mám približne **5 rokov hobby skúseností s vývojom webový
 
 <details>
   <summary>`Rozbaliť technické znalosti`</summary>
+  
+```
+Web development
+- Frontend: HTML5, CSS3, JavaScript
+- Backend: PHP
+- Nástroje a knižnice: jQuery, Axios, SASS, Laravel
 
-### Web development
-
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Backend:** PHP
-- **Nástroje a knižnice:** jQuery, Axios, SASS, Laravel
-
-### Game development
+Game development:
 - Pygame, Godot
 
-### Databázy
+Databáza:
 - SQL, MySQL, PostgreSQL
 
-### Testing
+Testing:
 - Python, Pytest, Playwright, Postman, DBeaver
+```
 
 </details>
 
@@ -61,6 +62,8 @@ Okrem testovania mám približne **5 rokov hobby skúseností s vývojom webový
 
 * **08/2026** – získaný certifikát [Junior Tester](./certifikaty/junior-tester-engeto.pdf)po absolvovaní Testerskej akadémie od Engeta
 * **02/2024** – účasť na Game Jamu: [Minigame a month February 2024](https://itch.io/jam/minigame-a-month-february-2024), projekt: [Rocky Harvest (Godot)](https://kayo005.itch.io/rocky-harvest)
+
+*Bude doplnené...*
 
 ---
 
